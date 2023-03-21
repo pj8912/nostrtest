@@ -1,0 +1,2 @@
+# nostrtest
+Nostr test
